@@ -1,4 +1,16 @@
+🎓 B.Tech student passionate about software development & problem-solving
 
+💻 Working on full-stack web projects using React, Node.js, Express & Supabase
+
+🧠 Strong focus on DSA and coding interview preparation
+
+🌱 Currently learning advanced DSA patterns, React best practices & backend design
+
+🤝 Open to collaborations, hackathons & open-source projects
+
+🚀 Interested in building real-world, scalable applications
+
+⚡ Believe in learning by building, not just watching tutorials
 
 
 ## 🌐 Socials:
