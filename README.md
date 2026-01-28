@@ -1,5 +1,4 @@
-# 💫 About Me:
- I’m currently working on<br><br>Full-stack projects using React, Node.js, Express & Supabase<br><br>Improving backend structure and API design<br><br>👯 I’m looking to collaborate on<br><br>Beginner to intermediate full-stack web projects<br><br>College-level startup ideas / hackathons<br><br>Open-source projects related to education or productivity<br><br>🤝 I’m looking for help with<br><br>Writing clean, scalable backend code<br><br>Best practices in system design & deployment<br><br>Understanding real-world project architecture<br><br>🌱 I’m currently learning<br><br>Advanced DSA patterns for product-based companies<br><br>React (hooks, performance, best practices)<br><br>Backend optimization & database design<br><br>💬 Ask me about<br><br>DSA preparation strategy (arrays, strings, linked lists, trees, graphs)<br><br>React basics & project setup<br><br>How to build projects step-by-step as a student<br><br>⚡ Fun fact<br><br>I learn faster by building projects than watching tutorials 🚀
+
 
 
 ## 🌐 Socials:
